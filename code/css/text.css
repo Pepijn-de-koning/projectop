@@ -1,0 +1,61 @@
+.text1 {
+  float: right;
+  width: 30%;
+  padding-top: 80px;
+  padding-right: 242px;
+}
+
+.text2 {
+  width: 30%;
+  padding-top: 115px;
+  padding-bottom: 500px;
+  padding-left: 282px;
+}
+
+.text3 {
+  width: 30%;
+  float: right;
+  padding-right: 282px;
+  padding-top: 125px;
+}
+
+.text4 {
+  width: 30%;
+  padding-top: 11px;
+  padding-bottom: 500px;
+  padding-left: 282px;
+}
+
+.text5 {
+  width: 35%;
+  padding-left: 285px;
+}
+
+.text6 {
+    width: 35%;
+    float: right;
+    padding-right: 285px;
+}
+
+.p {
+  font-size: 23px;
+  background-color: #ff1293  ;
+  padding: 40px 40px 40px 40px;
+}
+
+.inschrijven {
+  font-size: 23px;
+  background-color: #ff1293  ;
+  padding: 40px 40px 40px 40px;
+  float: right;
+  width: 300px;
+  margin-right: 250px;
+  margin-top: 230px;
+}
+
+.a {
+  text-decoration: none;
+  color: inherit;
+  background-color: #cc0070;
+  padding: 5px 5px 5px 5px;
+}
